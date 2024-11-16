@@ -14,7 +14,7 @@ idade2 = int(input("Digite a Segunda idade:"))
 if idade1 > idade2:
     print("A primeira idade é maior que a segunda!")
 
-elif idade1 > idade2:
+elif idade1 < idade2:
     print("A primeira idade é menor que a segunda!")
 
 else:
